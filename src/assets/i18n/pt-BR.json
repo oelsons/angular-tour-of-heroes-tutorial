@@ -1,7 +1,8 @@
 {
     "ADD": "Adicionar",
     "CLEAR": "Limpar",
-	"DASHBOARD": "Painel",
+    "DASHBOARD": "Painel",
+    "DETAILS": "Detalhes",
 	"GO_BACK": "Voltar",
 	"HEROES": "Heróis",
 	"HERO_NAME": "Nome do herói",

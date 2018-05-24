@@ -1,7 +1,8 @@
 {
     "ADD": "Add",
     "CLEAR": "Clear",
-	"DASHBOARD": "Dashboard",
+    "DASHBOARD": "Dashboard",
+    "DETAILS": "Details",
 	"GO_BACK": "Go back",
 	"HEROES": "Heroes",
 	"HERO_NAME": "Hero name",
