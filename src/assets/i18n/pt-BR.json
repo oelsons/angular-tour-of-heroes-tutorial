@@ -1,0 +1,15 @@
+{
+    "ADD": "Adicionar",
+    "CLEAR": "Limpar",
+	"DASHBOARD": "Painel",
+	"GO_BACK": "Voltar",
+	"HEROES": "Heróis",
+	"HERO_NAME": "Nome do herói",
+    "HERO_SEARCH": "Buscar herói",
+    "MESSAGES": "MENSAGENS",
+	"MY_HEROES": "Meus heróis",
+	"NAME": "Nome",
+	"SAVE": "Salvar",
+	"TITLE": "Tour dos Heróis",
+	"TOP_HEROES": "Melhores Heróis"
+}

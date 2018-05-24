@@ -1,0 +1,15 @@
+{
+    "ADD": "Add",
+    "CLEAR": "Clear",
+	"DASHBOARD": "Dashboard",
+	"GO_BACK": "Go back",
+	"HEROES": "Heroes",
+	"HERO_NAME": "Hero name",
+    "HERO_SEARCH": "Hero search",
+    "MESSAGES": "MESSAGES",
+	"MY_HEROES": "My Heroes",
+	"NAME": "Name",
+	"SAVE": "Save",
+	"TITLE": "Tour of Heroes",
+	"TOP_HEROES": "Top Heroes"
+}
