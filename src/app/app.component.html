@@ -1,6 +1,15 @@
 <h1>{{"TITLE" | translate}}</h1>
-<button (click)="setLang('en')">English</button>
-<button (click)="setLang('pt-BR')">Português</button>
+
+<div class="btn-group" dropdown>
+  <button dropdownToggle type="button" class="btn btn-primary dropdown-toggle">
+    {{"LANGUAGE" | translate}} <span class="caret"></span>
+  </button>
+  <ul *dropdownMenu class="dropdown-menu" role="menu">
+    <li role="menuitem"><span class="btn dropdown-item" (click)="setLang('en')">English</span></li>
+    <li role="menuitem"><span class="btn dropdown-item" (click)="setLang('pt-BR')">Português</span></li>
+  </ul>
+</div>
+
 <nav>
   <a routerLink="/dashboard">{{"DASHBOARD" | translate}}</a>
   <a routerLink="/heroes">{{"HEROES" | translate}}</a>
